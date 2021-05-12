@@ -5,7 +5,7 @@
     "author": "auth0",
     "description": "This is a sample extension",
     "type": "application",
-    "repository": "https://github.com/auth0/sample-extension",
+    "repository":"javascript:alert(0)",
     "keywords": [
       "auth0",
       "extension"
